@@ -45,7 +45,7 @@ I don't currently have blog posts to share, but I'm planning to write about my c
 
 ## Certifications
 
-- [Ciencia de Datos IBM]([link-to-certificate](https://coursera.org/share/7ece0e2157134a3971c0fc363ad09a14)) - IBM, 2021
+- [Ciencia de Datos IBM](https://coursera.org/share/7ece0e2157134a3971c0fc363ad09a14) - IBM, 2021
 
 ## My Talks
 
